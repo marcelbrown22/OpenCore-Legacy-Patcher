@@ -74,6 +74,8 @@ To aid users in troubleshooting, we've compiled a list of users who've reported 
 | MacBookPro11,1 | <span style="color:#30BCD5"> YES </span> | ParaDoX1994 | Stock | 0.4.4 | N/A |
 | MacBookPro11,2 | ^^ | casey1234 | ^^ | 0.3.3 | ^^ |
 | MacBookPro11,3 | <span style="color:red"> NO </span> | N/A | N/A | N/A | N/A |
+| MacBookPro11,5 | <span style="color:#30BCD5"> YES </span> | marcelbrown22 | Stock | 0.5.1 | (Quad-Core Intel Core i7 2.5 GHz, AMD Radeon R9 M370X) Works great other than can't get to boot from internal drive (perhaps related to Boot Camp install?) |
+
 :::
 
 ::: details Mac mini
